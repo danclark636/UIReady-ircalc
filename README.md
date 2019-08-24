@@ -1,0 +1,2 @@
+# ircalc
+Interest Rate Calculator
